@@ -1,0 +1,5 @@
+C:/Users/lsr/practica1IS2/practica 1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/lsr/practica1IS2/practica 1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lsr/practica1IS2/practica 1/out/build/x64-Debug/practica 1/CMakeFiles/CMakeTarget.dir
+C:/Users/lsr/practica1IS2/practica 1/out/build/x64-Debug/practica 1/CMakeFiles/edit_cache.dir
+C:/Users/lsr/practica1IS2/practica 1/out/build/x64-Debug/practica 1/CMakeFiles/rebuild_cache.dir
