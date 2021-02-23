@@ -18,6 +18,6 @@
 .zip
 .tar.gz
 .rar
-
+.txt 
 # virtual machine crash logs, see httpwww.java.comendownloadhelperror_hotspot.xml
 hs_err_pid
